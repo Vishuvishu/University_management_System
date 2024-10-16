@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Project",
+            "request": "launch",
+            "mainClass": "university.management.system.Project",
+            "projectName": "University Management System"
+        },
+        {
+            "type": "java",
+            "name": "StudentLeaveDetails",
+            "request": "launch",
+            "mainClass": "university.management.system.StudentLeaveDetails",
+            "projectName": "University Management System"
+        },
+        {
+            "type": "java",
+            "name": "Splash",
+            "request": "launch",
+            "mainClass": "university.management.system.Splash",
+            "projectName": "University Management System"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "university.management.system.Login",
+            "projectName": "University Management System"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "About",
+            "request": "launch",
+            "mainClass": "university.management.system.About",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "AddStudent",
+            "request": "launch",
+            "mainClass": "university.management.system.AddStudent",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "AddTeacher",
+            "request": "launch",
+            "mainClass": "university.management.system.AddTeacher",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "EnterMarks",
+            "request": "launch",
+            "mainClass": "university.management.system.EnterMarks",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "ExaminationDetails",
+            "request": "launch",
+            "mainClass": "university.management.system.ExaminationDetails",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "FeeStructure",
+            "request": "launch",
+            "mainClass": "university.management.system.FeeStructure",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "university.management.system.Login",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "Marks",
+            "request": "launch",
+            "mainClass": "university.management.system.Marks",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "Project",
+            "request": "launch",
+            "mainClass": "university.management.system.Project",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "Splash",
+            "request": "launch",
+            "mainClass": "university.management.system.Splash",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "StudentDetails",
+            "request": "launch",
+            "mainClass": "university.management.system.StudentDetails",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "StudentFeeForm",
+            "request": "launch",
+            "mainClass": "university.management.system.StudentFeeForm",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "StudentLeave",
+            "request": "launch",
+            "mainClass": "university.management.system.StudentLeave",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "StudentLeaveDetails",
+            "request": "launch",
+            "mainClass": "university.management.system.StudentLeaveDetails",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "TeacherDetails",
+            "request": "launch",
+            "mainClass": "university.management.system.TeacherDetails",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "TeacherLeave",
+            "request": "launch",
+            "mainClass": "university.management.system.TeacherLeave",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "TeacherLeaveDetails",
+            "request": "launch",
+            "mainClass": "university.management.system.TeacherLeaveDetails",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "UpdateStudent",
+            "request": "launch",
+            "mainClass": "university.management.system.UpdateStudent",
+            "projectName": "University Management System_f9c40a4c"
+        },
+        {
+            "type": "java",
+            "name": "UpdateTeacher",
+            "request": "launch",
+            "mainClass": "university.management.system.UpdateTeacher",
+            "projectName": "University Management System_f9c40a4c"
+        }
+    ]
+}
